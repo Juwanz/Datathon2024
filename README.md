@@ -36,3 +36,6 @@ creating an accurate prediction model is substantially increased.
 
 More information can be found in the complete documentation linked here:
 https://drive.google.com/file/d/1JMLWMsQDiDozFRWFXhn752RjBwWNU_9C/view?usp=sharing
+
+The Google Drive folder containing the CSV files, data visualizations, and project presentation can be found here:
+https://drive.google.com/drive/folders/1I0dAvUnOGW33BLSLVn-N_0BPp0K12vEa?usp=drive_link
